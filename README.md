@@ -1,5 +1,3 @@
-Sure! Here's a comprehensive GitHub README for the progress tracking microservice:
-
 ---
 
 # Progress Tracking Microservice
